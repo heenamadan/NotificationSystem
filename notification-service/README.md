@@ -38,7 +38,7 @@ use notification_system
 
 Now
 
-Run `gradlew bootRun` in below oath 
+Run `gradlew bootRun` in below path 
 <path>\notification-service\producer
 to start the server manually.
 
@@ -74,12 +74,12 @@ e.g: `http://localhost:8080/api/v1.0/notifier/notifyAll`
 with body as: 
 ```javascript 
 {  
-   "body": "Body of the message",  
+   "body": "Message Body",  
    "from": "sender@gmail.com",  
    "subject": "Notification Service Test Subject",  
    "to": "receiver@gmail.com"  
 }
-```
+
  
 ## Tests
 
@@ -95,5 +95,10 @@ Assumptions:
 2) Comsumer listen to topic and fetch records from topic 
 3)
  send email according to channel and update status- success or failure in mongo db
+
+ Scalability:
+
+ Add partitions count to the topic
+ Use cluster - Infrastructure
 
 
