@@ -27,9 +27,9 @@ Following capabilities are supported:
 2) Docker start
 3) Extract project to some <path>
 
-Run docker-compose file. run below command under folder: <path>\target-case\notification-service\producer
+Run docker-compose file. run below command under folder: <path>\notification-service\producer
 
-docker-compose up
+docker-compose up -d
 
 you can check docker-compose ps to show /check status of the containers
 
@@ -39,7 +39,7 @@ use notification_system
 Now
 
 Run `gradlew bootRun` in below oath 
-<path>\target-case\notification-service\producer
+<path>\notification-service\producer
 to start the server manually.
 
 To access Rest API doc: `http://localhost:8080/api`
