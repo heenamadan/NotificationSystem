@@ -33,6 +33,11 @@ docker-compose up -d
 
 you can check docker-compose ps to show /check status of the containers
 
+Start MongoDb server:
+To start MongoDB, run mongod.exe from the Command Prompt navigate to your MongoDB Bin folder and run mongod command, it will start MongoDB main process and The waiting for connections message in the console.
+
+In another cmd, type: mongo to start mongo client
+
 #create database to mongodb
 use notification_system
 
