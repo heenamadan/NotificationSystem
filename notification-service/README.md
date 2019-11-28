@@ -44,8 +44,12 @@ use notification_system
 Now
 
 Run `gradlew bootRun` in below path 
-<path>\notification-service\producer
-to start the server manually.
+<path>\notification-service\producer to start the server manually.
+   
+To Start Consumer:
+
+Run `gradlew bootRun` in below path 
+<path>\notification-service\consumer to start the server manually.
 
 To access Rest API doc: `http://localhost:8080/api`
 
