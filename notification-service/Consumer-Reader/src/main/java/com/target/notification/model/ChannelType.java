@@ -4,7 +4,7 @@ package com.target.notification.model;
  * 
  */
 public enum ChannelType {
-    slack, email;
+    email, slack, SMS;
 
     @Override
     public String toString() {

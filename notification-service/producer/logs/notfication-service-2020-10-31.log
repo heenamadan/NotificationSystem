@@ -1,0 +1,654 @@
+[2020-10-31_13:15:13.152 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:15.365 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:18.331 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:21.399 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:24.312 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:27.326 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:30.342 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:33.404 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:36.322 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:39.533 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:42.496 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:45.659 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:48.820 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:51.881 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:54.994 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:15:58.160 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:01.121 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:04.031 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:07.142 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:10.051 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:12.962 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:15.920 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:18.780 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:21.747 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:24.658 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:27.717 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:30.628 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:33.841 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:36.749 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:39.558 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:42.620 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:45.434 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:48.452 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:51.516 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:54.386 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:16:57.608 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:17:00.574 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:17:03.585 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:17:06.497 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:17:09.611 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:17:12.434 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:20:58.992 | [main] | INFO  | com.target.notification.Main | Starting Main on LAPTOP-L3JPKBK3 with PID 16828 (C:\Users\Lenovo\Documents\NotificationSystem\notification-service\producer\build\classes\java\main started by Lenovo in C:\Users\Lenovo\Documents\NotificationSystem\notification-service\producer)]
+[2020-10-31_13:20:59.008 | [main] | INFO  | com.target.notification.Main | No active profile set, falling back to default profiles: default]
+[2020-10-31_13:20:59.129 | [main] | INFO  | org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext | Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@26b3fd41: startup date [Sat Oct 31 13:20:59 IST 2020]; root of context hierarchy]
+[2020-10-31_13:21:00.836 | [main] | INFO  | org.springframework.beans.factory.support.DefaultListableBeanFactory | Overriding bean definition for bean 'producerFactory' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=kafkaConfig; factoryMethodName=producerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/config/KafkaConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=notificationController; factoryMethodName=producerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/web/NotificationController.class]]]
+[2020-10-31_13:21:00.837 | [main] | INFO  | org.springframework.beans.factory.support.DefaultListableBeanFactory | Overriding bean definition for bean 'kafkaTemplate' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=kafkaConfig; factoryMethodName=kafkaTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/config/KafkaConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=notificationController; factoryMethodName=kafkaTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/web/NotificationController.class]]]
+[2020-10-31_13:21:01.227 | [main] | INFO  | org.springframework.data.repository.config.RepositoryConfigurationDelegate | Multiple Spring Data modules found, entering strict repository configuration mode!]
+[2020-10-31_13:21:01.691 | [main] | INFO  | org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker | Bean 'org.springframework.kafka.annotation.KafkaBootstrapConfiguration' of type [org.springframework.kafka.annotation.KafkaBootstrapConfiguration$$EnhancerBySpringCGLIB$$37a1ff44] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)]
+[2020-10-31_13:21:02.406 | [main] | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat initialized with port(s): 8082 (http)]
+[2020-10-31_13:21:02.423 | [main] | INFO  | org.apache.coyote.http11.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8082"]]
+[2020-10-31_13:21:02.434 | [main] | INFO  | org.apache.catalina.core.StandardService | Starting service [Tomcat]]
+[2020-10-31_13:21:02.435 | [main] | INFO  | org.apache.catalina.core.StandardEngine | Starting Servlet Engine: Apache Tomcat/8.5.28]
+[2020-10-31_13:21:02.446 | [localhost-startStop-1] | INFO  | org.apache.catalina.core.AprLifecycleListener | The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.6.1\bin;D:\zookeeper\apache-zookeeper-3.5.6-bin\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;D:\spark\bin;C:\Users\kusha\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\PuTTY\;D:\gradle\gradle-4.10.2\bin;C:\Program Files (x86)\scala\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Users\Lenovo\bin;C:\Program Files\Kubernetes\Minikube;C:\ProgramData\chocolatey\bin;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Users\Lenovo\anaconda3;C:\Users\Lenovo\anaconda3\Scripts;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Roaming\npm;C:\Users\Lenovo\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Lenovo\bin;;C:\Users\Lenovo\AppData\Local\Programs\Fiddler;.]]
+[2020-10-31_13:21:02.591 | [localhost-startStop-1] | INFO  | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring embedded WebApplicationContext]
+[2020-10-31_13:21:02.591 | [localhost-startStop-1] | INFO  | org.springframework.web.context.ContextLoader | Root WebApplicationContext: initialization completed in 3468 ms]
+[2020-10-31_13:21:03.720 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.ServletRegistrationBean | Servlet dispatcherServlet mapped to [/]]
+[2020-10-31_13:21:03.724 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'characterEncodingFilter' to: [/*]]
+[2020-10-31_13:21:03.725 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'hiddenHttpMethodFilter' to: [/*]]
+[2020-10-31_13:21:03.726 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'httpPutFormContentFilter' to: [/*]]
+[2020-10-31_13:21:03.726 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'requestContextFilter' to: [/*]]
+[2020-10-31_13:21:03.726 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'httpTraceFilter' to: [/*]]
+[2020-10-31_13:21:03.726 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'webMvcMetricsFilter' to: [/*]]
+[2020-10-31_13:21:04.317 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect1()]
+[2020-10-31_13:21:04.318 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect2()]
+[2020-10-31_13:21:04.319 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/doc],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect3()]
+[2020-10-31_13:21:04.322 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api/v1.0/notifier/notify/{channelType}],methods=[POST]}" onto public long com.target.notification.web.NotificationController.notify(com.target.notification.model.ChannelType,com.target.notification.model.Message)]
+[2020-10-31_13:21:04.323 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api/v1.0/notifier/notifyAll],methods=[POST]}" onto public long com.target.notification.web.NotificationController.notifyAll(com.target.notification.model.Message)]
+[2020-10-31_13:21:04.323 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[2020-10-31_13:21:04.328 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()]
+[2020-10-31_13:21:04.329 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()]
+[2020-10-31_13:21:04.330 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()]
+[2020-10-31_13:21:04.335 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)]
+[2020-10-31_13:21:04.335 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)]
+[2020-10-31_13:21:04.441 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator/health],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)]
+[2020-10-31_13:21:04.442 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator/info],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)]
+[2020-10-31_13:21:04.443 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto protected java.util.Map<java.lang.String, java.util.Map<java.lang.String, org.springframework.boot.actuate.endpoint.web.Link>> org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping.links(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)]
+[2020-10-31_13:21:05.055 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter | Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@26b3fd41: startup date [Sat Oct 31 13:20:59 IST 2020]; root of context hierarchy]
+[2020-10-31_13:21:05.143 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_13:21:05.143 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_13:21:05.200 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_13:21:05.721 | [main] | INFO  | org.springframework.jmx.export.annotation.AnnotationMBeanExporter | Registering beans for JMX exposure on startup]
+[2020-10-31_13:21:05.748 | [main] | INFO  | org.apache.kafka.clients.admin.AdminClientConfig | AdminClientConfig values: 
+	bootstrap.servers = [localhost:9092]
+	client.id = 
+	connections.max.idle.ms = 300000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 120000
+	retries = 5
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+]
+[2020-10-31_13:21:05.818 | [main] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka version : 1.0.0]
+[2020-10-31_13:21:05.818 | [main] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka commitId : aaa7af6d4a11b29d]
+[2020-10-31_13:21:07.936 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:21:09.992 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:21:12.097 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:21:14.355 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:21:16.713 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:21:19.681 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:21:22.595 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:21:25.559 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:21:28.620 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:26:46.879 | [main] | INFO  | com.target.notification.Main | Starting Main on LAPTOP-L3JPKBK3 with PID 5752 (C:\Users\Lenovo\Documents\NotificationSystem\notification-service\producer\build\classes\java\main started by Lenovo in C:\Users\Lenovo\Documents\NotificationSystem\notification-service\producer)]
+[2020-10-31_13:26:46.893 | [main] | INFO  | com.target.notification.Main | No active profile set, falling back to default profiles: default]
+[2020-10-31_13:26:47.015 | [main] | INFO  | org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext | Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@757277dc: startup date [Sat Oct 31 13:26:47 IST 2020]; root of context hierarchy]
+[2020-10-31_13:26:49.223 | [main] | INFO  | org.springframework.beans.factory.support.DefaultListableBeanFactory | Overriding bean definition for bean 'producerFactory' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=kafkaConfig; factoryMethodName=producerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/config/KafkaConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=notificationController; factoryMethodName=producerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/web/NotificationController.class]]]
+[2020-10-31_13:26:49.225 | [main] | INFO  | org.springframework.beans.factory.support.DefaultListableBeanFactory | Overriding bean definition for bean 'kafkaTemplate' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=kafkaConfig; factoryMethodName=kafkaTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/config/KafkaConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=notificationController; factoryMethodName=kafkaTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/web/NotificationController.class]]]
+[2020-10-31_13:26:49.976 | [main] | INFO  | org.springframework.data.repository.config.RepositoryConfigurationDelegate | Multiple Spring Data modules found, entering strict repository configuration mode!]
+[2020-10-31_13:26:51.055 | [main] | INFO  | org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker | Bean 'org.springframework.kafka.annotation.KafkaBootstrapConfiguration' of type [org.springframework.kafka.annotation.KafkaBootstrapConfiguration$$EnhancerBySpringCGLIB$$daf8d12b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)]
+[2020-10-31_13:26:52.504 | [main] | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat initialized with port(s): 8082 (http)]
+[2020-10-31_13:26:52.529 | [main] | INFO  | org.apache.coyote.http11.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8082"]]
+[2020-10-31_13:26:52.558 | [main] | INFO  | org.apache.catalina.core.StandardService | Starting service [Tomcat]]
+[2020-10-31_13:26:52.560 | [main] | INFO  | org.apache.catalina.core.StandardEngine | Starting Servlet Engine: Apache Tomcat/8.5.28]
+[2020-10-31_13:26:52.586 | [localhost-startStop-1] | INFO  | org.apache.catalina.core.AprLifecycleListener | The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.6.1\bin;D:\zookeeper\apache-zookeeper-3.5.6-bin\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;D:\spark\bin;C:\Users\kusha\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\PuTTY\;D:\gradle\gradle-4.10.2\bin;C:\Program Files (x86)\scala\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Users\Lenovo\bin;C:\Program Files\Kubernetes\Minikube;C:\ProgramData\chocolatey\bin;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Users\Lenovo\anaconda3;C:\Users\Lenovo\anaconda3\Scripts;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Roaming\npm;C:\Users\Lenovo\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Lenovo\bin;;C:\Users\Lenovo\AppData\Local\Programs\Fiddler;.]]
+[2020-10-31_13:26:52.966 | [localhost-startStop-1] | INFO  | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring embedded WebApplicationContext]
+[2020-10-31_13:26:52.967 | [localhost-startStop-1] | INFO  | org.springframework.web.context.ContextLoader | Root WebApplicationContext: initialization completed in 5957 ms]
+[2020-10-31_13:26:55.536 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.ServletRegistrationBean | Servlet dispatcherServlet mapped to [/]]
+[2020-10-31_13:26:55.548 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'characterEncodingFilter' to: [/*]]
+[2020-10-31_13:26:55.549 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'hiddenHttpMethodFilter' to: [/*]]
+[2020-10-31_13:26:55.549 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'httpPutFormContentFilter' to: [/*]]
+[2020-10-31_13:26:55.550 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'requestContextFilter' to: [/*]]
+[2020-10-31_13:26:55.550 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'httpTraceFilter' to: [/*]]
+[2020-10-31_13:26:55.551 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'webMvcMetricsFilter' to: [/*]]
+[2020-10-31_13:26:56.894 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect2()]
+[2020-10-31_13:26:56.897 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/doc],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect3()]
+[2020-10-31_13:26:56.898 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect1()]
+[2020-10-31_13:26:56.909 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api/v1.0/notifier/notify/{channelType}],methods=[POST]}" onto public long com.target.notification.web.NotificationController.notify(com.target.notification.model.ChannelType,com.target.notification.model.Message)]
+[2020-10-31_13:26:56.910 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api/v1.0/notifier/notifyAll],methods=[POST]}" onto public long com.target.notification.web.NotificationController.notifyAll(com.target.notification.model.Message)]
+[2020-10-31_13:26:56.914 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[2020-10-31_13:26:56.923 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()]
+[2020-10-31_13:26:56.926 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()]
+[2020-10-31_13:26:56.928 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()]
+[2020-10-31_13:26:56.941 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)]
+[2020-10-31_13:26:56.942 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)]
+[2020-10-31_13:26:57.136 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator/health],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)]
+[2020-10-31_13:26:57.139 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator/info],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)]
+[2020-10-31_13:26:57.142 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto protected java.util.Map<java.lang.String, java.util.Map<java.lang.String, org.springframework.boot.actuate.endpoint.web.Link>> org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping.links(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)]
+[2020-10-31_13:26:58.402 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter | Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@757277dc: startup date [Sat Oct 31 13:26:47 IST 2020]; root of context hierarchy]
+[2020-10-31_13:26:58.602 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_13:26:58.603 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_13:26:58.714 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_13:26:59.932 | [main] | INFO  | org.springframework.jmx.export.annotation.AnnotationMBeanExporter | Registering beans for JMX exposure on startup]
+[2020-10-31_13:27:00.003 | [main] | INFO  | org.apache.kafka.clients.admin.AdminClientConfig | AdminClientConfig values: 
+	bootstrap.servers = [localhost:9092]
+	client.id = 
+	connections.max.idle.ms = 300000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 120000
+	retries = 5
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+]
+[2020-10-31_13:27:00.176 | [main] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka version : 1.0.0]
+[2020-10-31_13:27:00.177 | [main] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka commitId : aaa7af6d4a11b29d]
+[2020-10-31_13:27:02.275 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:04.378 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:06.483 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:08.739 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:11.108 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:14.025 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:17.245 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:20.412 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:23.277 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:26.190 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:29.157 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:32.301 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:35.115 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:38.130 | [kafka-admin-client-thread | adminclient-1] | WARN  | org.apache.kafka.clients.NetworkClient | [AdminClient clientId=adminclient-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:27:40.195 | [kafka-admin-client-thread | adminclient-1] | INFO  | org.apache.kafka.clients.admin.KafkaAdminClient | [AdminClient clientId=adminclient-1] Forcing a hard I/O thread shutdown. Requests in progress will be aborted.]
+[2020-10-31_13:27:40.219 | [main] | INFO  | org.springframework.context.support.DefaultLifecycleProcessor | Starting beans in phase 2147483547]
+[2020-10-31_13:27:40.220 | [main] | INFO  | org.springframework.context.support.DefaultLifecycleProcessor | Starting beans in phase 2147483647]
+[2020-10-31_13:27:40.220 | [main] | INFO  | springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper | Context refreshed]
+[2020-10-31_13:27:40.279 | [main] | INFO  | springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper | Found 1 custom documentation plugin(s)]
+[2020-10-31_13:27:40.389 | [main] | INFO  | springfox.documentation.spring.web.scanners.ApiListingReferenceScanner | Scanning for api listing references]
+[2020-10-31_13:27:40.781 | [main] | INFO  | org.apache.coyote.http11.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8082"]]
+[2020-10-31_13:27:40.785 | [main] | INFO  | org.apache.tomcat.util.net.NioSelectorPool | Using a shared selector for servlet write/read]
+[2020-10-31_13:27:40.818 | [main] | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat started on port(s): 8082 (http) with context path '']
+[2020-10-31_13:27:40.825 | [main] | INFO  | com.target.notification.Main | Started Main in 54.432 seconds (JVM running for 56.119)]
+[2020-10-31_13:28:46.276 | [http-nio-8082-exec-1] | INFO  | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring FrameworkServlet 'dispatcherServlet']
+[2020-10-31_13:28:46.277 | [http-nio-8082-exec-1] | INFO  | org.springframework.web.servlet.DispatcherServlet | FrameworkServlet 'dispatcherServlet': initialization started]
+[2020-10-31_13:28:46.345 | [http-nio-8082-exec-1] | INFO  | org.springframework.web.servlet.DispatcherServlet | FrameworkServlet 'dispatcherServlet': initialization completed in 67 ms]
+[2020-10-31_13:48:22.003 | [http-nio-8082-exec-1] | INFO  | org.apache.kafka.clients.producer.ProducerConfig | ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.springframework.kafka.support.serializer.JsonSerializer
+]
+[2020-10-31_13:48:22.675 | [http-nio-8082-exec-1] | WARN  | org.apache.kafka.clients.producer.ProducerConfig | The configuration 'metadata.broker.list' was supplied but isn't a known config.]
+[2020-10-31_13:48:22.675 | [http-nio-8082-exec-1] | WARN  | org.apache.kafka.clients.producer.ProducerConfig | The configuration 'serializer.class' was supplied but isn't a known config.]
+[2020-10-31_13:48:22.679 | [http-nio-8082-exec-1] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka version : 1.0.0]
+[2020-10-31_13:48:22.679 | [http-nio-8082-exec-1] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka commitId : aaa7af6d4a11b29d]
+[2020-10-31_13:48:24.703 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:26.760 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:28.863 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:31.118 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:33.523 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:36.233 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:39.197 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:42.320 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:45.186 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:48.305 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:51.431 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:54.294 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:48:57.466 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:49:00.685 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:49:03.598 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:49:06.712 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:49:09.879 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:49:12.946 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_13:49:16.014 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node -1 could not be established. Broker may not be available.]
+[2020-10-31_14:12:26.002 | [main] | INFO  | com.target.notification.Main | Starting Main on LAPTOP-L3JPKBK3 with PID 15156 (C:\Users\Lenovo\Documents\NotificationSystem\notification-service\producer\build\classes\java\main started by Lenovo in C:\Users\Lenovo\Documents\NotificationSystem\notification-service\producer)]
+[2020-10-31_14:12:26.017 | [main] | INFO  | com.target.notification.Main | No active profile set, falling back to default profiles: default]
+[2020-10-31_14:12:26.080 | [main] | INFO  | org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext | Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1f59a598: startup date [Sat Oct 31 14:12:26 IST 2020]; root of context hierarchy]
+[2020-10-31_14:12:27.174 | [main] | INFO  | org.springframework.beans.factory.support.DefaultListableBeanFactory | Overriding bean definition for bean 'producerFactory' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=kafkaConfig; factoryMethodName=producerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/config/KafkaConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=notificationController; factoryMethodName=producerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/web/NotificationController.class]]]
+[2020-10-31_14:12:27.175 | [main] | INFO  | org.springframework.beans.factory.support.DefaultListableBeanFactory | Overriding bean definition for bean 'kafkaTemplate' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=kafkaConfig; factoryMethodName=kafkaTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/config/KafkaConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=notificationController; factoryMethodName=kafkaTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/web/NotificationController.class]]]
+[2020-10-31_14:12:27.614 | [main] | INFO  | org.springframework.data.repository.config.RepositoryConfigurationDelegate | Multiple Spring Data modules found, entering strict repository configuration mode!]
+[2020-10-31_14:12:28.070 | [main] | INFO  | org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker | Bean 'org.springframework.kafka.annotation.KafkaBootstrapConfiguration' of type [org.springframework.kafka.annotation.KafkaBootstrapConfiguration$$EnhancerBySpringCGLIB$$318bb98b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)]
+[2020-10-31_14:12:28.760 | [main] | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat initialized with port(s): 8082 (http)]
+[2020-10-31_14:12:28.777 | [main] | INFO  | org.apache.coyote.http11.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8082"]]
+[2020-10-31_14:12:28.788 | [main] | INFO  | org.apache.catalina.core.StandardService | Starting service [Tomcat]]
+[2020-10-31_14:12:28.789 | [main] | INFO  | org.apache.catalina.core.StandardEngine | Starting Servlet Engine: Apache Tomcat/8.5.28]
+[2020-10-31_14:12:28.800 | [localhost-startStop-1] | INFO  | org.apache.catalina.core.AprLifecycleListener | The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.6.1\bin;D:\zookeeper\apache-zookeeper-3.5.6-bin\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;D:\spark\bin;C:\Users\kusha\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\PuTTY\;D:\gradle\gradle-4.10.2\bin;C:\Program Files (x86)\scala\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Users\Lenovo\bin;C:\Program Files\Kubernetes\Minikube;C:\ProgramData\chocolatey\bin;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Users\Lenovo\anaconda3;C:\Users\Lenovo\anaconda3\Scripts;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Roaming\npm;C:\Users\Lenovo\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Lenovo\bin;;C:\Users\Lenovo\AppData\Local\Programs\Fiddler;.]]
+[2020-10-31_14:12:28.944 | [localhost-startStop-1] | INFO  | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring embedded WebApplicationContext]
+[2020-10-31_14:12:28.944 | [localhost-startStop-1] | INFO  | org.springframework.web.context.ContextLoader | Root WebApplicationContext: initialization completed in 2866 ms]
+[2020-10-31_14:12:30.035 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.ServletRegistrationBean | Servlet dispatcherServlet mapped to [/]]
+[2020-10-31_14:12:30.040 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'characterEncodingFilter' to: [/*]]
+[2020-10-31_14:12:30.041 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'hiddenHttpMethodFilter' to: [/*]]
+[2020-10-31_14:12:30.041 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'httpPutFormContentFilter' to: [/*]]
+[2020-10-31_14:12:30.041 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'requestContextFilter' to: [/*]]
+[2020-10-31_14:12:30.041 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'httpTraceFilter' to: [/*]]
+[2020-10-31_14:12:30.042 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'webMvcMetricsFilter' to: [/*]]
+[2020-10-31_14:12:30.609 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect1()]
+[2020-10-31_14:12:30.610 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect2()]
+[2020-10-31_14:12:30.611 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/doc],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect3()]
+[2020-10-31_14:12:30.614 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api/v1.0/notifier/notify/{channelType}],methods=[POST]}" onto public long com.target.notification.web.NotificationController.notify(com.target.notification.model.ChannelType,com.target.notification.model.Message)]
+[2020-10-31_14:12:30.615 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api/v1.0/notifier/notifyAll],methods=[POST]}" onto public long com.target.notification.web.NotificationController.notifyAll(com.target.notification.model.Message)]
+[2020-10-31_14:12:30.616 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[2020-10-31_14:12:30.619 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()]
+[2020-10-31_14:12:30.620 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()]
+[2020-10-31_14:12:30.621 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()]
+[2020-10-31_14:12:30.625 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)]
+[2020-10-31_14:12:30.626 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)]
+[2020-10-31_14:12:30.744 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator/health],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)]
+[2020-10-31_14:12:30.746 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator/info],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)]
+[2020-10-31_14:12:30.747 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto protected java.util.Map<java.lang.String, java.util.Map<java.lang.String, org.springframework.boot.actuate.endpoint.web.Link>> org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping.links(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)]
+[2020-10-31_14:12:31.400 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter | Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1f59a598: startup date [Sat Oct 31 14:12:26 IST 2020]; root of context hierarchy]
+[2020-10-31_14:12:31.509 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_14:12:31.509 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_14:12:31.576 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-10-31_14:12:32.212 | [main] | INFO  | org.springframework.jmx.export.annotation.AnnotationMBeanExporter | Registering beans for JMX exposure on startup]
+[2020-10-31_14:12:32.242 | [main] | INFO  | org.apache.kafka.clients.admin.AdminClientConfig | AdminClientConfig values: 
+	bootstrap.servers = [localhost:9092]
+	client.id = 
+	connections.max.idle.ms = 300000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 120000
+	retries = 5
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+]
+[2020-10-31_14:12:32.318 | [main] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka version : 1.0.0]
+[2020-10-31_14:12:32.318 | [main] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka commitId : aaa7af6d4a11b29d]
+[2020-10-31_14:12:32.597 | [main] | INFO  | org.springframework.kafka.core.KafkaAdmin | Topic 'gen_notification_status' exists but has a different partition count: 1 not 3, increasing if the broker supports it]
+[2020-10-31_14:12:32.716 | [main] | INFO  | org.springframework.context.support.DefaultLifecycleProcessor | Starting beans in phase 2147483547]
+[2020-10-31_14:12:32.716 | [main] | INFO  | org.springframework.context.support.DefaultLifecycleProcessor | Starting beans in phase 2147483647]
+[2020-10-31_14:12:32.716 | [main] | INFO  | springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper | Context refreshed]
+[2020-10-31_14:12:32.747 | [main] | INFO  | springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper | Found 1 custom documentation plugin(s)]
+[2020-10-31_14:12:32.787 | [main] | INFO  | springfox.documentation.spring.web.scanners.ApiListingReferenceScanner | Scanning for api listing references]
+[2020-10-31_14:12:32.957 | [main] | INFO  | org.apache.coyote.http11.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8082"]]
+[2020-10-31_14:12:32.959 | [main] | INFO  | org.apache.tomcat.util.net.NioSelectorPool | Using a shared selector for servlet write/read]
+[2020-10-31_14:12:32.974 | [main] | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat started on port(s): 8082 (http) with context path '']
+[2020-10-31_14:12:32.979 | [main] | INFO  | com.target.notification.Main | Started Main in 7.3 seconds (JVM running for 8.088)]
+[2020-10-31_14:13:54.221 | [http-nio-8082-exec-1] | INFO  | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring FrameworkServlet 'dispatcherServlet']
+[2020-10-31_14:13:54.221 | [http-nio-8082-exec-1] | INFO  | org.springframework.web.servlet.DispatcherServlet | FrameworkServlet 'dispatcherServlet': initialization started]
+[2020-10-31_14:13:54.269 | [http-nio-8082-exec-1] | INFO  | org.springframework.web.servlet.DispatcherServlet | FrameworkServlet 'dispatcherServlet': initialization completed in 48 ms]
+[2020-10-31_14:14:00.801 | [http-nio-8082-exec-8] | INFO  | org.apache.kafka.clients.producer.ProducerConfig | ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.springframework.kafka.support.serializer.JsonSerializer
+]
+[2020-10-31_14:14:00.869 | [http-nio-8082-exec-8] | WARN  | org.apache.kafka.clients.producer.ProducerConfig | The configuration 'metadata.broker.list' was supplied but isn't a known config.]
+[2020-10-31_14:14:00.870 | [http-nio-8082-exec-8] | WARN  | org.apache.kafka.clients.producer.ProducerConfig | The configuration 'serializer.class' was supplied but isn't a known config.]
+[2020-10-31_14:14:00.870 | [http-nio-8082-exec-8] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka version : 1.0.0]
+[2020-10-31_14:14:00.871 | [http-nio-8082-exec-8] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka commitId : aaa7af6d4a11b29d]
+[2020-10-31_14:16:23.850 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:25.957 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:28.168 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:30.678 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:33.389 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:36.252 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:39.269 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:42.183 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:45.150 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:47.963 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:50.928 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:53.893 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:16:57.111 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:00.130 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:03.044 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:06.060 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:09.276 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:12.344 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:15.159 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:18.325 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:21.341 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:24.254 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:27.169 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:30.386 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:33.401 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:36.263 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:39.126 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:42.192 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:45.309 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:48.476 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:51.593 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:54.809 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:17:57.976 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:01.094 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:04.313 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:07.174 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:10.187 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:13.202 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:16.219 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:19.285 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:22.254 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:25.273 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:28.441 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:31.456 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:34.473 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:37.489 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:40.554 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:43.569 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:46.787 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:49.750 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:52.663 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:55.526 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:18:58.342 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:01.207 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:04.272 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:07.289 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:10.458 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:13.477 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:16.443 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:19.559 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:22.574 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:25.441 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:28.607 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:31.778 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:34.894 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:37.757 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:40.722 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:43.635 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:46.749 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:49.864 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:53.029 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:55.945 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:19:59.010 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:02.175 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:05.090 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:07.904 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:10.968 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:13.881 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:16.795 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:19.870 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:22.988 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:26.158 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:29.311 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:32.398 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:35.561 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:38.582 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:41.400 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:44.367 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:47.555 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:50.694 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:53.695 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:53.900 | [kafka-producer-network-thread | producer-1] | ERROR | org.springframework.kafka.support.LoggingProducerListener | Exception thrown when sending a message with key='null' and payload='Message{id=3, subject='hi heena', from='heena.madan4@gmail.com', to='heena.madan7@gmail.com', body='...' to topic gen_notification_status:]
+org.apache.kafka.common.errors.TimeoutException: Expiring 1 record(s) for gen_notification_status-0: 30027 ms has passed since batch creation plus linger time
+[2020-10-31_14:20:56.875 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:20:59.989 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:02.904 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:05.869 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:08.884 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:11.796 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:14.660 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:17.726 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:20.795 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:23.862 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:26.825 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:29.788 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:32.856 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:36.075 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:39.142 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:42.006 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:45.174 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:48.341 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:51.457 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:54.323 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:21:57.389 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:00.350 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:03.216 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:06.282 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:09.190 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:12.358 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:15.223 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:18.339 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:21.558 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:24.625 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:27.636 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:30.501 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:33.415 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:36.431 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:39.498 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:42.617 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:45.688 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:48.759 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:51.739 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:54.756 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:22:57.617 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:00.532 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:03.649 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:06.561 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:09.530 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:12.696 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:15.864 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:19.081 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:22.149 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:25.065 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:28.079 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:31.142 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:34.209 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:37.271 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:40.386 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:43.452 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:46.413 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:49.276 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:52.142 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:55.056 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:23:57.923 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:00.939 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:04.103 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:07.119 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:10.186 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:13.099 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:16.217 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:19.283 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:22.298 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:25.162 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:28.006 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:31.041 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:34.238 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:37.384 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:40.491 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:43.405 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:46.476 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:49.411 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:51.369 | [kafka-producer-network-thread | producer-1] | ERROR | org.springframework.kafka.support.LoggingProducerListener | Exception thrown when sending a message with key='null' and payload='Message{id=4, subject='hey heena', from='heena.madan4@gmail.com', to='heena.madan4@gmail.com', body=...' to topic gen_notification_status:]
+org.apache.kafka.common.errors.TimeoutException: Expiring 1 record(s) for gen_notification_status-2: 30031 ms has passed since batch creation plus linger time
+[2020-10-31_14:24:52.413 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:55.630 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:24:58.846 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:25:02.061 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:25:05.123 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:25:08.350 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:25:11.315 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.]
+[2020-10-31_14:25:19.418 | [kafka-producer-network-thread | producer-1] | WARN  | org.apache.kafka.clients.NetworkClient | [Producer clientId=producer-1] Error while fetching metadata with correlation id 7 : {gen_notification_status=LEADER_NOT_AVAILABLE}]

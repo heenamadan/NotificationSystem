@@ -38,7 +38,7 @@ public class GenericNotificationService {
      * @param msg The message includes from, to, subject, body
      */
     public long notify(ChannelType channelType, Message msg, EmailService emailService) {
-    	LOG.info("sending email to channeltype{}",channelType);
+    	LOG.info("sending email to channel type{}",channelType);
     	ChannelFactoryClass.getChannel(channelType).notify(msg, emailService);
     	return msg.getId();
     }  

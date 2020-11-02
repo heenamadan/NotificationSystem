@@ -1,0 +1,91 @@
+[2020-11-01_15:18:46.373 | [main] | INFO  | com.target.notification.Main | Starting Main on LAPTOP-L3JPKBK3 with PID 11092 (C:\Users\Lenovo\Documents\NotificationSystem\notification-service\producer\build\classes\java\main started by Lenovo in C:\Users\Lenovo\Documents\NotificationSystem\notification-service\producer)]
+[2020-11-01_15:18:46.407 | [main] | INFO  | com.target.notification.Main | No active profile set, falling back to default profiles: default]
+[2020-11-01_15:18:46.530 | [main] | INFO  | org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext | Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6aaceffd: startup date [Sun Nov 01 15:18:46 IST 2020]; root of context hierarchy]
+[2020-11-01_15:18:48.864 | [main] | INFO  | org.springframework.beans.factory.support.DefaultListableBeanFactory | Overriding bean definition for bean 'producerFactory' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=kafkaConfig; factoryMethodName=producerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/config/KafkaConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=notificationController; factoryMethodName=producerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/web/NotificationController.class]]]
+[2020-11-01_15:18:48.865 | [main] | INFO  | org.springframework.beans.factory.support.DefaultListableBeanFactory | Overriding bean definition for bean 'kafkaTemplate' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=kafkaConfig; factoryMethodName=kafkaTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/config/KafkaConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=notificationController; factoryMethodName=kafkaTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/target/notification/web/NotificationController.class]]]
+[2020-11-01_15:18:49.397 | [main] | INFO  | org.springframework.data.repository.config.RepositoryConfigurationDelegate | Multiple Spring Data modules found, entering strict repository configuration mode!]
+[2020-11-01_15:18:49.988 | [main] | INFO  | org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker | Bean 'org.springframework.kafka.annotation.KafkaBootstrapConfiguration' of type [org.springframework.kafka.annotation.KafkaBootstrapConfiguration$$EnhancerBySpringCGLIB$$37017489] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)]
+[2020-11-01_15:18:50.915 | [main] | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat initialized with port(s): 8082 (http)]
+[2020-11-01_15:18:50.938 | [main] | INFO  | org.apache.coyote.http11.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8082"]]
+[2020-11-01_15:18:50.955 | [main] | INFO  | org.apache.catalina.core.StandardService | Starting service [Tomcat]]
+[2020-11-01_15:18:50.956 | [main] | INFO  | org.apache.catalina.core.StandardEngine | Starting Servlet Engine: Apache Tomcat/8.5.28]
+[2020-11-01_15:18:50.973 | [localhost-startStop-1] | INFO  | org.apache.catalina.core.AprLifecycleListener | The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.6.1\bin;D:\zookeeper\apache-zookeeper-3.5.6-bin\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;D:\spark\bin;C:\Users\kusha\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\PuTTY\;D:\gradle\gradle-4.10.2\bin;C:\Program Files (x86)\scala\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Users\Lenovo\bin;C:\Program Files\Kubernetes\Minikube;C:\ProgramData\chocolatey\bin;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Users\Lenovo\anaconda3;C:\Users\Lenovo\anaconda3\Scripts;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Roaming\npm;C:\Users\Lenovo\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Lenovo\bin;;C:\Users\Lenovo\AppData\Local\Programs\Fiddler;.]]
+[2020-11-01_15:18:51.172 | [localhost-startStop-1] | INFO  | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring embedded WebApplicationContext]
+[2020-11-01_15:18:51.173 | [localhost-startStop-1] | INFO  | org.springframework.web.context.ContextLoader | Root WebApplicationContext: initialization completed in 4650 ms]
+[2020-11-01_15:18:53.816 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.ServletRegistrationBean | Servlet dispatcherServlet mapped to [/]]
+[2020-11-01_15:18:53.826 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'characterEncodingFilter' to: [/*]]
+[2020-11-01_15:18:53.827 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'hiddenHttpMethodFilter' to: [/*]]
+[2020-11-01_15:18:53.828 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'httpPutFormContentFilter' to: [/*]]
+[2020-11-01_15:18:53.828 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'requestContextFilter' to: [/*]]
+[2020-11-01_15:18:53.828 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'httpTraceFilter' to: [/*]]
+[2020-11-01_15:18:53.829 | [localhost-startStop-1] | INFO  | org.springframework.boot.web.servlet.FilterRegistrationBean | Mapping filter: 'webMvcMetricsFilter' to: [/*]]
+[2020-11-01_15:18:55.225 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/doc],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect3()]
+[2020-11-01_15:18:55.227 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect2()]
+[2020-11-01_15:18:55.229 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.target.notification.swagger.SwaggerRedirectController.redirect1()]
+[2020-11-01_15:18:55.238 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api/v1.0/notifier/notify/{channelType}],methods=[POST]}" onto public long com.target.notification.web.NotificationController.notify(com.target.notification.model.ChannelType,com.target.notification.model.Message)]
+[2020-11-01_15:18:55.240 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/api/v1.0/notifier/notifyAll],methods=[POST]}" onto public long com.target.notification.web.NotificationController.notifyAll(com.target.notification.model.Message)]
+[2020-11-01_15:18:55.243 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[2020-11-01_15:18:55.252 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()]
+[2020-11-01_15:18:55.254 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()]
+[2020-11-01_15:18:55.256 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()]
+[2020-11-01_15:18:55.265 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)]
+[2020-11-01_15:18:55.266 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping | Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)]
+[2020-11-01_15:18:55.552 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator/health],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)]
+[2020-11-01_15:18:55.555 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator/info],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(javax.servlet.http.HttpServletRequest,java.util.Map<java.lang.String, java.lang.String>)]
+[2020-11-01_15:18:55.559 | [main] | INFO  | org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping | Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuator.v2+json || application/json]}" onto protected java.util.Map<java.lang.String, java.util.Map<java.lang.String, org.springframework.boot.actuate.endpoint.web.Link>> org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping.links(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)]
+[2020-11-01_15:18:56.565 | [main] | INFO  | org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter | Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6aaceffd: startup date [Sun Nov 01 15:18:46 IST 2020]; root of context hierarchy]
+[2020-11-01_15:18:56.756 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-11-01_15:18:56.756 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-11-01_15:18:56.892 | [main] | INFO  | org.springframework.web.servlet.handler.SimpleUrlHandlerMapping | Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]]
+[2020-11-01_15:18:58.251 | [main] | INFO  | org.springframework.jmx.export.annotation.AnnotationMBeanExporter | Registering beans for JMX exposure on startup]
+[2020-11-01_15:18:58.319 | [main] | INFO  | org.apache.kafka.clients.admin.AdminClientConfig | AdminClientConfig values: 
+	bootstrap.servers = [localhost:9092]
+	client.id = 
+	connections.max.idle.ms = 300000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 120000
+	retries = 5
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+]
+[2020-11-01_15:18:58.487 | [main] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka version : 1.0.0]
+[2020-11-01_15:18:58.487 | [main] | INFO  | org.apache.kafka.common.utils.AppInfoParser | Kafka commitId : aaa7af6d4a11b29d]
+[2020-11-01_15:18:58.947 | [main] | INFO  | org.springframework.context.support.DefaultLifecycleProcessor | Starting beans in phase 2147483547]
+[2020-11-01_15:18:58.947 | [main] | INFO  | org.springframework.context.support.DefaultLifecycleProcessor | Starting beans in phase 2147483647]
+[2020-11-01_15:18:58.948 | [main] | INFO  | springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper | Context refreshed]
+[2020-11-01_15:18:59.029 | [main] | INFO  | springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper | Found 1 custom documentation plugin(s)]
+[2020-11-01_15:18:59.105 | [main] | INFO  | springfox.documentation.spring.web.scanners.ApiListingReferenceScanner | Scanning for api listing references]
+[2020-11-01_15:18:59.324 | [main] | INFO  | org.apache.coyote.http11.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8082"]]
+[2020-11-01_15:18:59.326 | [main] | INFO  | org.apache.tomcat.util.net.NioSelectorPool | Using a shared selector for servlet write/read]
+[2020-11-01_15:18:59.346 | [main] | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat started on port(s): 8082 (http) with context path '']
+[2020-11-01_15:18:59.351 | [main] | INFO  | com.target.notification.Main | Started Main in 13.677 seconds (JVM running for 15.503)]

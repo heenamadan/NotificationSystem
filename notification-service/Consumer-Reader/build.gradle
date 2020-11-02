@@ -111,6 +111,10 @@ compile group: 'org.springframework.kafka', name: 'spring-kafka'
 
     testCompile "org.springframework.boot:spring-boot-starter-test"
     testCompile "cglib:cglib-nodep:3.1"
+
+    // https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk
+   // compile group: 'com.amazonaws', name: 'aws-java-sdk', version: '1.11.519'
+
 }
 
 task stage {

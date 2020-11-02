@@ -48,7 +48,7 @@ dependencies {
     compile("org.springframework.boot:spring-boot-starter-actuator")
     compile("io.springfox:springfox-swagger2:2.6.1")
     compile('io.springfox:springfox-swagger-ui:2.6.1')
-    
+
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: jacksonVersion
 
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: jacksonVersion
@@ -62,9 +62,11 @@ dependencies {
     compile group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: log4j2Version
     compile group: 'org.slf4j', name: 'slf4j-api', version: slf4Version
     compile group: 'org.slf4j', name: 'jul-to-slf4j', version: slf4Version
-    
+
     // https://mvnrepository.com/artifact/org.springframework.kafka/spring-kafka
-compile group: 'org.springframework.kafka', name: 'spring-kafka'
+    compile group: 'org.springframework.kafka', name: 'spring-kafka'
+
+    compile 'org.springframework.boot:spring-boot-starter-data-mongodb:1.2.0.RELEASE'
 
     compile 'com.ullink.slack:simpleslackapi:1.2.0'
     compile 'it.ozimov:spring-boot-email-core:0.6.3'
@@ -74,7 +76,7 @@ compile group: 'org.springframework.kafka', name: 'spring-kafka'
 }
 
 task stage {
-  dependsOn build
+    dependsOn build
 }
 
 test {

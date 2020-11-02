@@ -2,13 +2,13 @@ package com.target.notification.web;
 /**
  * Notification Controller class
  */
+import com.target.notification.service.MongoService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
@@ -41,6 +41,9 @@ public class NotificationController {
     private NotificationService service;
 
     @Autowired
+    private MongoService mongoService;
+
+    @Autowired
     EmailValidator emailValidator;
     
     @Autowired
@@ -71,6 +74,20 @@ public class NotificationController {
     @PostMapping("/notifyAll")
     public long notifyAll(@RequestBody Message msg) {
         return service.notifyAll(msg, KafkaJsontemplate, TOPIC_NAME);
+    }
+
+   @ApiOperation(value = "Return all messages of all channels like Slack and email.")
+    @ApiResponses(value = {@ApiResponse(code = 404, message = "Not Found")})
+    @GetMapping("/viewAll")
+    public List<Message> getAllMessages() {
+        return mongoService.getAllMessages();
+    }
+
+    @ApiOperation(value = "Return all messages of all channels like Slack and email.")
+    @ApiResponses(value = {@ApiResponse(code = 404, message = "Not Found")})
+    @GetMapping("/viewMessage/{channelType}")
+    public List<Message> getChannelMessages(@PathVariable ChannelType channelType) {
+        return mongoService.getChannelMessages(channelType);
     }
     
     @Bean

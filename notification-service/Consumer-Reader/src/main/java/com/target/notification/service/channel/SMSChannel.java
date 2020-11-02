@@ -1,8 +1,4 @@
 package com.target.notification.service.channel;
-/**
- * Class which is used to send notification via Email
- * 
- */
 
 import com.google.common.collect.Lists;
 import com.target.notification.db.MongoDao;
@@ -12,25 +8,22 @@ import com.target.notification.model.Status;
 import it.ozimov.springboot.mail.model.Email;
 import it.ozimov.springboot.mail.model.defaultimpl.DefaultEmail;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Service;
 
 import javax.mail.internet.InternetAddress;
 
-@Service
-public class EmailChannel implements Channel {
+public class SMSChannel implements Channel {
 
-  
 
-    @Value("${spring.mail.username}") String fromEmail;
+
 
     /**
-     * Method to send email and save status to mongodb
-     * 
+     * Method to send SMS and save status to mongodb
+     *
      */
     @Override
     public void notify(Message msg, it.ozimov.springboot.mail.service.EmailService emailService) {
-    	
-       
+
+
         try {
 
 
@@ -41,12 +34,12 @@ public class EmailChannel implements Channel {
                     .subject(msg.getSubject())
                     .body(msg.getBody())
                     .encoding("UTF-8").build();
-                 
-            emailService.send(email);
+
+            // emailService.send(email);
             msg.setStatus(Status.success.name());
             MongoDao.saveStatusToDB(msg);
         } catch (Exception e) {
-        	msg.setStatus(Status.failure.name());
+            msg.setStatus(Status.failure.name());
             MongoDao.saveStatusToDB(msg);
             throw new RuntimeException("Failed to send message using email channel, exception : "+e.getMessage(), e);
         }

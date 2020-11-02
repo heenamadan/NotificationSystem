@@ -4,11 +4,15 @@ package com.target.notification.model;
  * 
  */
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.time.LocalDateTime;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
+@Document(collection = "generic_notify_status")
 public class Message {
+    @Id
     private long id;
     private String subject;
     private String from;
