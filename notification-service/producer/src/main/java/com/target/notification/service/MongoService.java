@@ -19,18 +19,21 @@ public class MongoService {
 
     private static final Logger LOG = LogManager.getLogger(MongoService.class);
 
+    /**
+     * Get all messages of channel type like email,sms, slack
+     * @return list of messages {List} of {Message}
+     */
     public List<Message> getAllMessages() {
         return NotificationMongoDao.selectAllRecords();
 
     }
-
+    /**
+     * Get messages as per channel type like email,sms, slack
+     * @param channelType Type of chanel to notify - slack, SMS and email
+     * @return list of messages {List} of {Message}
+     */
     public List<Message> getChannelMessages(ChannelType channelType) {
         return NotificationMongoDao.selectAllRecords();
 
     }
-    
-   
-    
-    
-    
 }
