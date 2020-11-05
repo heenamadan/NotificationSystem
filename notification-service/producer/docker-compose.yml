@@ -9,7 +9,7 @@ services:
     ports:
     - "9092:9092"
     environment:
-      KAFKA_ADVERTISED_HOST_NAME: 127.0.0.1
+      KAFKA_ADVERTISED_HOST_NAME: heena.kafka.local
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
       KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'false'
   mongodb:
@@ -21,12 +21,12 @@ services:
       - ./.docker/mongodb/initdb.d/:/docker-entrypoint-initdb.d/
       - ./.docker/mongodb/data/db/:/data/db/
       - ./.docker/mongodb/data/log/:/var/log/mongodb/
-    env_file:
-      - .env
     environment:
-      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
-      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
-      MONGO_INITDB_DATABASE: ${MONGO_INITDB_DATABASE}
+      MONGO_INITDB_DATABASE: notification
     ports:
       - "27017:27017"
     command: ["-f", "/etc/mongod.conf"]
+  producer-app:
+    image: my-app
+    ports:
+    - "8085:8080"

@@ -15,7 +15,7 @@ public class MongoConfig {
 	public @Bean
     MongoTemplate mongoTemplate() throws Exception {
 		
-		MongoTemplate mongoTemplate = new MongoTemplate(new MongoClient("127.0.0.1"),"notification");
+		MongoTemplate mongoTemplate = new MongoTemplate(new MongoClient("mongodb"),"notification");
 		return mongoTemplate;
 		
 	}
