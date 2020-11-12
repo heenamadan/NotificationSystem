@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.ComponentScan;
+import org.springframework.boot.autoconfigure.mongo.MongoAutoConfiguration;
 
-@EnableAutoConfiguration
+@EnableAutoConfiguration(exclude={MongoAutoConfiguration.class})
 @SpringBootApplication
 @EnableEmailTools
 public class Main {

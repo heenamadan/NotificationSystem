@@ -1,0 +1,31 @@
+version: '3.5'
+services:
+  zookeeper:
+    image: wurstmeister/zookeeper
+    ports:
+    - "2181:2181"
+    networks:
+      - producer_default
+  kafka:
+    image: wurstmeister/kafka
+    ports:
+    - "9092:9092"
+    environment:
+      KAFKA_ADVERTISED_HOST_NAME: heena.kafka.local
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'false'
+    networks:
+      - producer_default
+  api-database:
+    image: mongo:3.2.4
+    container_name: "api-database"
+    ports:
+      - 27017:27017
+    command: --smallfiles
+  api:
+    image: api-docker-image
+    ports:
+      - 9091:8080
+    links:
+      - api-database
+  

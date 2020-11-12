@@ -19,3 +19,4 @@ COPY --from=build ${DEPENDENCY}/BOOT-INF/classes /app
 COPY /build/libs/producer.jar app.jar
 ENTRYPOINT ["java","-jar","/app.jar"]
 
+EXPOSE 9090
