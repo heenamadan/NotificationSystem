@@ -19,7 +19,7 @@ public class MongoConfig {
 	public @Bean
     MongoTemplate mongoTemplate() throws Exception {
 		
-		MongoTemplate mongoTemplate = new MongoTemplate(new MongoClient(mongoHost, 27017),"notification");
+		MongoTemplate mongoTemplate = new MongoTemplate(new MongoClient("api-database"),"notification");
 		return mongoTemplate;
 		
 	}
